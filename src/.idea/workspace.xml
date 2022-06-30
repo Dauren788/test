@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f8deb3f-45af-4f00-8853-6a448115ddbb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../demo-todoEmailService/demo-todo1/src/main/java/com/example/business/controller/PriorityController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/main/java/com/example/demotodo2/DemoTodo2Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/main/java/com/example/demotodo2/auth/config/SpringConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/main/java/com/example/demotodo2/auth/controllers/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/main/java/com/example/demotodo2/auth/entity/Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/main/java/com/example/demotodo2/auth/entity/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/main/java/com/example/demotodo2/auth/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/main/java/com/example/demotodo2/auth/exception/JwtCommonException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/main/java/com/example/demotodo2/auth/exception/RoleNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/main/java/com/example/demotodo2/auth/exception/UserAlreadyActivatedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/main/java/com/example/demotodo2/auth/exception/UserOrEmailExistsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/main/java/com/example/demotodo2/auth/filter/AuthTokenFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/main/java/com/example/demotodo2/auth/filter/ExceptionHandlerFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/main/java/com/example/demotodo2/auth/objects/JsonException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/main/java/com/example/demotodo2/auth/repository/ActivityRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/main/java/com/example/demotodo2/auth/repository/RoleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/main/java/com/example/demotodo2/auth/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/main/java/com/example/demotodo2/auth/services/EmailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/main/java/com/example/demotodo2/auth/services/UserDetailsImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/main/java/com/example/demotodo2/auth/services/UserDetailsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/main/java/com/example/demotodo2/auth/services/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/main/java/com/example/demotodo2/auth/utils/CookieUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/main/java/com/example/demotodo2/auth/utils/JwtUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/main/java/com/example/demotodo2/business/controller/CategoryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/main/java/com/example/demotodo2/business/controller/PriorityController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/main/java/com/example/demotodo2/business/controller/StatController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/main/java/com/example/demotodo2/business/controller/TaskController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/main/java/com/example/demotodo2/business/controller/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/main/java/com/example/demotodo2/business/entity/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/main/java/com/example/demotodo2/business/entity/Priority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/main/java/com/example/demotodo2/business/entity/Stat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/main/java/com/example/demotodo2/business/entity/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/main/java/com/example/demotodo2/business/repo/CategoryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/main/java/com/example/demotodo2/business/repo/PriorityRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/main/java/com/example/demotodo2/business/repo/StatRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/main/java/com/example/demotodo2/business/repo/TaskRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/main/java/com/example/demotodo2/business/search/CategorySearchValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/main/java/com/example/demotodo2/business/search/PrioritySearchValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/main/java/com/example/demotodo2/business/search/TaskSearchValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/main/java/com/example/demotodo2/business/service/CategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/main/java/com/example/demotodo2/business/service/PriorityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/main/java/com/example/demotodo2/business/service/StatService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/main/java/com/example/demotodo2/business/service/TaskService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/main/java/com/example/demotodo2/business/util/MyLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/main/resources/ssl/todoapp_ssl.p12" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../shah/demo-todo2/src/test/java/com/example/demotodo2/DemoTodo2ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../GitHub Desktop.lnk" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../GitHub Desktop.lnk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Microsoft Edge.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../PP2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Telegram.lnk" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Telegram.lnk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Visual Studio 2017.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Visual Studio Code.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Yandex.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Быстрый доступ - Ярлык.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Сапер.lnk" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Сапер.lnk" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectId" id="2BHiP8Dz3LhQPP6cBPA20S1M6ff" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../settings.gradle" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f8deb3f-45af-4f00-8853-6a448115ddbb" name="Changes" comment="" />
+      <created>1656569384124</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656569384124</updated>
+      <workItem from="1656569385658" duration="48000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
