@@ -4,4 +4,6 @@ public class Main {
         //assume that smth changed here
         //changes for second commit
     }
+
+    private void method(){}
 }
